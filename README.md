@@ -1,23 +1,23 @@
 ### WHAT IS THE PYTHON PROGRAMMING?
-In technical aspects, Python is a high####level, object####oriented programming language that comes with integrated dynamic semantics primarily for app and web development. Though it’s often compared to JavaScript, Ruby etc, the major thing that sets apart Python programming language from others is its simplicity. First released in 1991, Python has become one of the most popular programming languages across the globe.
+In technical aspects, Python is a high-level, object-oriented programming language that comes with integrated dynamic semantics primarily for app and web development. Though it’s often compared to JavaScript, Ruby etc, the major thing that sets apart Python programming language from others is its simplicity. First released in 1991, Python has become one of the most popular programming languages across the globe.
 #### Key features of Python programming language
 The huge popularity of Python programming language heavily relies on the unique features offered by it. Let’s have a look at the features of Python that set it apart from other programming languages.
 #### SIMPLE TO LEARN
 Python is highly simple to get started with. It comes with a simple setup, easy to understand syntax and many practical applications that are heavily needed in web development. The syntax is relatively simple compared to other languages and a bunch of modules can be imported to make the code much shorter. There’re some straightforward, excellent tools available to work with Python code, particularly the interactive interpreter. It eliminates the need for learning special text editor, IDE, or anything else to begin using Python programming language. All you need to have a command prompt together with the interactive editor.
 #### A BEGINNER’S LANGUAGE
-For a beginner in the programming domain, starting with a language which is difficult to learn not only slows the pace of the learning but brings additional complexity also. With Python programming language, a beginner can be introduced to the fundamental concepts like procedures and loops quickly and probably can work with user####defined objects in his/her initial stage of learning. Python’s hug syntactical simplicity lets a beginner use advanced or basic concepts, without much boilerplate code which is common in many other languages.
+For a beginner in the programming domain, starting with a language which is difficult to learn not only slows the pace of the learning but brings additional complexity also. With Python programming language, a beginner can be introduced to the fundamental concepts like procedures and loops quickly and probably can work with user-defined objects in his/her initial stage of learning. Python’s hug syntactical simplicity lets a beginner use advanced or basic concepts, without much boilerplate code which is common in many other languages.
 #### INTERPRETED LANGUAGE
 If you’re familiar with programming languages like Java or C++, you’re probably aware that in order to run them, you’ve to compile them first. But in Python programming language, there’s no need to compile it. All you need to do is run the Python code without thinking about linking to libraries. Here, interpreted means the source code isn’t executed all at once, instead it’s executed line by line, which makes it easier to debug the code. In Python, the source code gets converted into ‘bytecodes’ which is then translated into the native language of a specific computer.
-#### OBJECT####ORIENTED LANGUAGE
-A programming language, which comes with the ability to model the real world, is considered object####oriented. It concentrates on objects and merges functions and data. Python has object####oriented features. Class mechanism of Python adds classes with a minimum number of new semantics and syntax. Here, multiple inheritances are also supported.
-#### FREE AND OPEN####SOURCE
-Python programming language is freely available which means it can be downloaded from the official site by anyone. Python being open####source means you can read its source code, modify it, use pieces of it, and distribute copies of it freely.
-#### HIGH####LEVEL LANGUAGE
-Python is a high####level language which means programmers don’t need to remember its system architecture or manage the memory. This feature makes Python highly programmer####friendly.
+#### OBJECT-ORIENTED LANGUAGE
+A programming language, which comes with the ability to model the real world, is considered object-oriented. It concentrates on objects and merges functions and data. Python has object-oriented features. Class mechanism of Python adds classes with a minimum number of new semantics and syntax. Here, multiple inheritances are also supported.
+#### FREE AND OPEN-SOURCE
+Python programming language is freely available which means it can be downloaded from the official site by anyone. Python being open-source means you can read its source code, modify it, use pieces of it, and distribute copies of it freely.
+#### HIGH-LEVEL LANGUAGE
+Python is a high-level language which means programmers don’t need to remember its system architecture or manage the memory. This feature makes Python highly programmer-friendly.
 #### PORTABLE LANGUAGE
 Let’s consider you’ve written code in Python programming language for a Mac machine and you want to run it on a Windows machine. There’s no need to make changes to perform it, meaning you can take a single code and run it on any other machine without having to write separate codes for separate machines. This portability is another key feature of this language.
 #### EXTENSIVE LIBRARIES
-Python programming language comes with extensive libraries which can be used to eliminate the need of writing own code for each and every single thing. There’re libraries for unit####testing, documentation####generation, regular expressions, databases, web browser, image manipulation, image, and a lot more.
+Python programming language comes with extensive libraries which can be used to eliminate the need of writing own code for each and every single thing. There’re libraries for unit-testing, documentation-generation, regular expressions, databases, web browser, image manipulation, image, and a lot more.
 #### EXTENSIBLE LANGUAGE
 Some of the Python code can be written in other languages such as C++ if required. This feature makes Python an extensible language which means you can extend it to other languages.
 ### Why you should learn Python programming language?
